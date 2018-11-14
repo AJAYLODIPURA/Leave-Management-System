@@ -1,7 +1,8 @@
 # Leave-Management-System
 Leave management System is a fully functional and practically applicable web-app hosted on mlab.com.
 Leave Management System:  This is a portal where employees will apply for leave and manager will approve/reject the leaves.  Technology Stack Used : 1) Backednd : NodeJS, 2) Database : Mongodb 3) FrontEnd : JS, Html, CSS 4) Framework : Express  
-How to run? 1) The database is hosted at mlab.com, so no need to create the database in your local machine.
+How to run? 
+1) The database is hosted at mlab.com, so no need to create the database in your local machine.But you need to create an account on mlab.com under free trial section and create a Collection and Document there.Copy the URL in header part with the name "To connect using a driver via the standard MongoDB URI" and paste it to "config/database.js" as objid.
 2) pull the code, and run npm install.
 3) Thats all to run the code. 
 4) Now run the server by going to the directory from terminal, and running 'node bin/www' or simply write 'npm start'
@@ -21,3 +22,4 @@ How to run? 1) The database is hosted at mlab.com, so no need to create the data
 18) Login through the employee account, you will see the leave status changed.
 
 NOTE: For smooth functioning ensure Fast and VPN-free Internet Connectivity.
+JAI HIND.
