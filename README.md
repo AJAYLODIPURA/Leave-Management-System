@@ -22,5 +22,7 @@ How to run?
 18) Login through the employee account, you will see the leave status changed.
 
 NOTE: For smooth functioning ensure Fast and VPN-free Internet Connectivity.
+
 Node Modules need to be extracted.
+
 JAI HIND.
